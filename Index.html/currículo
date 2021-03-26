@@ -1,0 +1,51 @@
+! DOCTYPE html > 
+< html >
+   
+< cabeça >
+    < title > Aula HTML </ title >
+    < link  href = " css / estilo.css "   rel = " stylesheet " > 
+</ head >
+
+< corpo >
+    < principal >  
+        < section  class = " info " >
+            < img  src = "WhatsApp Image 2021-03-25 at 21.41.53 " > 
+            < h1 > NOME: Railane da Silva Evangelista </ h1 >
+            < p > INSTAGRAM: @railane_sylva </ p >
+            < P > E-MAIL: railanevaqueira@gmil.com </ P >
+            < P > CONTATO: (89)994503859 </ P >
+            < P > CIDADE: Jaicós-PI CEP: 64575-000 </ P >
+        </ seção >
+
+        < seção  classe = " currículo " >
+            < h3 > FORMAÇÃO: </ h3 >
+            < ul >  
+                < li > Ensino Médio Integrado ao Técnico de Informática pelo IFPI-CAMPUS PICOS. </ li >
+                < li > Curso de 240 horas - Preparatório para o primeiro emprego, compreendendo os seguintes programas: Digitação, Windows 8, Internet 11, Word 2013, Excel 2013, PowerPoint 2013, Secretariado execultivo, Auxiliar de contabilidade, Atendente de farmácia, Atendente de Caix, Vendas, Auxiliar Administrativo, Telemarketing, Redação para concursos, e Photoshop CC. </ li >
+                < li > Curso de 100 horas - Gestão em saúde pública e coletiva, Administração hospitalar, Higiene ocupacional e segurança no trabalho, Analista apidemiológico, Prevenção e controle de doenças e infecções. </ li >
+                < li > Minicurso de 10 horas - Laboratório de Matemática como Mediador do Ensino a Geometria. </ li > 
+            </ ul >
+            < h3 > EXPERIÊNCIAS: </ h3 >
+            < ul >
+                < li > Atendente do Bar e Restaurante Encontro dos Boiadeiros: Atendia, servia e recebia o dinheiro dos clientes, além de ajudar nas atividades prática da cozinha. </ li >
+                < li > Cuidadora de idosos e crianças: Alimentava, prestava atenção, e ajudava nos cuidados com a limpeza e higiene pessoal, além de dar os remédios na hora certa. </ li >
+                < li > Vendedora: Vendia perfumes, semijóias, cosmésticos, roupas e etc. </ li >
+                < li > Professora de reforço: Dava aulas de reforço para crianças no ensino fundamental, ajudando-as a resolverem suas tarefas escolares e também as ensinando ler, escrever, contar...dentre outras atividades. </ li >
+            </ ul >
+            < h3 > HABILIDADES: </ h3 >
+            < ul >
+                < li > Comunicação, tenho facilidade para me comunicar com as pessoas. </ li >
+                < li > Agilidade, faço as coisas com rapidez e eficiência. </ li >
+                < li > Informática básica, hábil em trabalhos com word, excel e powerpoint. </li >
+            </ ul >
+
+        </ seção >
+
+    </ main >
+
+    < rodapé >
+        2021 - Railane Silva.
+    </ rodapé > 
+</ body >
+
+</ html >
